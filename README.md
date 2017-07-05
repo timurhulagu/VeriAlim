@@ -1,0 +1,2 @@
+# VeriAlim
+Veri alimi
